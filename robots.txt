@@ -1,0 +1,9 @@
+# Robots.txt for Budstech.in
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.budstech.in/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
